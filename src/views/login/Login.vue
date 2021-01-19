@@ -7,7 +7,7 @@
       label-width="100px"
       class="login-ruleForm"
     >
-      <el-form-item label="用户名" prop="userName">
+      <el-form-item label="用户名1" prop="userName">
         <el-input
           type="text"
           v-model="ruleForm.userName"
